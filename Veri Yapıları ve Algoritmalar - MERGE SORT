@@ -3,3 +3,20 @@ Patika.dev -  VeriYapilari ve Algoritmalar
 
 
 Proje 2 - MERGE SORT
+
+SORULAR
+
+[16,21,11,8,12,22] -> Merge Sort
+
+1- Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+2- Big-O gösterimini yazınız.
+
+CEVAPLAR
+
+1-
+      [16,21,11]    [8,12,22]
+    
+  [16,21]  [11]      [8,12] [22]
+  
+[16] [21] [11]        [8] [12] [22]
+
