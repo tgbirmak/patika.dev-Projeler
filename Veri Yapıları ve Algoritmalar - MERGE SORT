@@ -27,7 +27,7 @@ CEVAPLAR
       [8,11,12,16,21,22]
       
   
- 2-   Yatayda n kere, dikeyde log n kere işlerm yapılmaktadır. Bu durumda Big-O;
+ 2-   Yatayda n kere, dikeyde log n kere işlem yapılmaktadır. Bu durumda Big-O;
  
       O(n.log n)'dir  
 
