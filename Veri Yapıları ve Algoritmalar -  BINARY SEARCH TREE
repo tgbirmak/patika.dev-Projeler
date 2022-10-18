@@ -32,9 +32,9 @@ CEVAPLAR
   
   root 7.
 
-sağına 5, solunda 1 bulunur.
+sağında 5, solunda 1 bulunur.
   
-  kalan sırayla 8; 7'den büyük, sağdan sıralı devam edecek;
+  kalan sırayla 8; 7'den büyük, 5'den büyük, sağdan sıralı devam edecek;
   3; 7'den küçük soldan devam edecek, 1den büyük, sağından devam;
   6; 7'den küçük soldan devam, 3ten büyük, sağından devam;
   0; 7'den küçük, soldan devam, 6'dan küçük, solundan devam;
