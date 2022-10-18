@@ -13,12 +13,16 @@ SORULAR
 CEVAPLAR
 
                                  7
-                       5                    8
+                       1                    5
 
-                 1        6               3      9  
-                                      
-              0                        2     4
-                                         
+                            3                      8  
+                               
+                               6 
+                                                        9
+                            0    
+                               4
+                                  
+                             2
                                            
                                              
                                             
@@ -27,23 +31,15 @@ CEVAPLAR
   Dizide sıralı gittiğimizde;
   
   root 7.
- ilk küçük sol 5, ilk büyük sağ 8 (sıralandı)
-  5'ten sonra sıralı;
-  sol 1 sağ 6
+
+sağına 5, solunda 1 bulunur.
   
-  8'den sonra sıralı;
-  sol 3 sağ 9
-  
-  1den sonra sıralı:
-  sol 0, sağ yok
-  
-  3den sonra sıralı:
-  sol 2, sağ 4
-  
-  9dan sonra sıralı:
-  ne küçük var, ne büyük. 
-  0dan sonra sıralı;
-  ne küçük var, ne büyük. Devam etmez.
+  kalan sırayla 8; 7'den büyük, sağdan sıralı devam edecek;
+  3; 7'den küçük soldan devam edecek, 1den büyük sağından devam;
+  6; 7'den küçük soldan devam, 3ten büyük, 3ün sağına gidecek;
+  0; 7'den küçük, soldan devam, 6'dan küçük soluna gidecek;
+  4; 7'den küçük, soldan devam, 0'dan büyük sağından gidecek;
+  2;7'den küçük, soldan devam, 4ten küçük solundan gidecek.
   
   
   
