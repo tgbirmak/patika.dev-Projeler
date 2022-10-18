@@ -35,11 +35,11 @@ CEVAPLAR
 sağına 5, solunda 1 bulunur.
   
   kalan sırayla 8; 7'den büyük, sağdan sıralı devam edecek;
-  3; 7'den küçük soldan devam edecek, 1den büyük sağından devam;
-  6; 7'den küçük soldan devam, 3ten büyük, 3ün sağına gidecek;
-  0; 7'den küçük, soldan devam, 6'dan küçük soluna gidecek;
-  4; 7'den küçük, soldan devam, 0'dan büyük sağından gidecek;
-  2;7'den küçük, soldan devam, 4ten küçük solundan gidecek.
+  3; 7'den küçük soldan devam edecek, 1den büyük, sağından devam;
+  6; 7'den küçük soldan devam, 3ten büyük, sağından devam;
+  0; 7'den küçük, soldan devam, 6'dan küçük, solundan devam;
+  4; 7'den küçük, soldan devam, 0'dan büyük, sağından devam;
+  2;7'den küçük, soldan devam, 4ten küçük. soldan devam edecek.
   
   
   
