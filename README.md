@@ -1,2 +1,3 @@
-#Projeler
-##(www.patika.dev) [Patika] 
+PROJELER
+
+[Patika] (www.patika.dev) 
