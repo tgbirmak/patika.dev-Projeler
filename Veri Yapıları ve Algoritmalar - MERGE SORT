@@ -1,19 +1,19 @@
-Patika.dev -  VeriYapilari ve Algoritmalar
-[Patika.dev](https://www.patika.dev/tr
+## Patika.dev -  VeriYapilari ve Algoritmalar
+## [Patika.dev](https://www.patika.dev/tr
 
 
-Proje 2 - MERGE SORT
+# Proje 2 - MERGE SORT
 
-SORULAR
+## **SORULAR**
 
 [16,21,11,8,12,22] -> Merge Sort
 
-1- Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
-2- Big-O gösterimini yazınız.
+- 1- Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+- 2- Big-O gösterimini yazınız.
 
-CEVAPLAR
+## **CEVAPLAR**
 
-1-
+- 1-
       [16,21,11]    [8,12,22]
     
   [16,21]  [11]      [8,12] [22]
@@ -27,7 +27,7 @@ CEVAPLAR
       [8,11,12,16,21,22]
       
   
- 2-   Yatayda n kere, dikeyde log n kere işlem yapılmaktadır. Bu durumda Big-O;
+ - 2-   Yatayda n kere, dikeyde log n kere işlem yapılmaktadır. Bu durumda Big-O;
  
       O(n.log n)'dir  
 
