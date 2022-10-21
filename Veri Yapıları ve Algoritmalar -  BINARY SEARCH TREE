@@ -33,7 +33,7 @@ CEVAPLAR
 
 solunda 5, sağında 8 bulunur.
   
-  kalan sırayla 1; 7'den büyük, 5'den küçük, sağdan soldan devam edecek;
+  kalan sırayla 1; 7'den küçük, 5'den küçük, soldan devam edecek;
   3; 7'den küçük soldan devam edecek, 1den büyük, sağından devam;
   6; 7'den küçük soldan devam, 5ten büyük, sağından devam;
   0; 7'den küçük, soldan devam, 6'dan küçük, solundan devam;
